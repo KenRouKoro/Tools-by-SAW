@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="fastjson-1.2.75-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Spice And Wolf - The Journey With Horo JavaSwing FDD/jar/fastjson-1.2.75.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Spice And Wolf - The Journey With Horo JavaSwing FDD/jar/fastjson-1.2.75-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Spice And Wolf - The Journey With Horo JavaSwing FDD/jar/fastjson-1.2.75-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
